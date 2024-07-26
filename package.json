@@ -1,0 +1,19 @@
+{
+  "name": "com.clix.unityeventviewer",
+  "displayName": "Unity Event Viewer",
+  "version": "1.0.0",
+  "unity": "2022.1",
+  "description": "A tool to view Unity events in the editor from GameObject, Prefab and ScriptableObject.",
+  "keywords": [
+    "unity",
+    "UnityEvent"
+  ],
+  "repository": {
+    "url": "https://github.com/clixmods/UnityEvent-Viewer.git",
+    "type": "git",
+    "revision": "f110c8c230d253654afed153569030a587cc7557"
+  },
+  "upmCi": {
+    "footprint": "f9e81f42318ed88a56c8bf031a82ee5c30370e88"
+  }
+}
